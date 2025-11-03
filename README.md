@@ -39,7 +39,11 @@ Other languages I'd be comfortable with include (non exhaustive):
 
 ## Where are your projects?
 
-My focus for the past few years has been school and work. I could upload some assignments I'm particularly proud of--it's just a matter of figuring out which ones I think would be worth sharing. Why haven't I done this already? No idea.
+My focus for the past few years has been school and work. I could upload some assignments I'm particularly proud of--it's just a matter of figuring out which ones I think would be worth sharing. Why haven't I done this already?
+
+(Well, I just did!)
+
+![Lunar Lander Game](https://github-readme-stats.vercel.app/api/pin/?username=ethanchristensen01&repo=lunar-lander-game)
 
 Unfortunately, I cannot showcase work from my most recent job without permission from our customers. This has been where most of my attention for development has gone, so I don't have many other projects to share.
 
