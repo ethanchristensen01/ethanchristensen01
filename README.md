@@ -7,11 +7,11 @@
 - Amateur mathematician
 
 
-## Check this out
+## Check these out!
 
-[Lunar Lander Game](https://github.com/ethanchristensen01/lunar-lander-game) ([Demo](https://ethanchristensen01.github.io/lunar-lander-game/))
-[Paint Splatter](https://www.khanacademy.org/computer-programming/paintsplatter/5602189262192640)
-[Khan Academy profile](https://www.khanacademy.org/profile/kaid_1072138969836315566562093)
+- [Lunar Lander Game](https://github.com/ethanchristensen01/lunar-lander-game) ([Demo](https://ethanchristensen01.github.io/lunar-lander-game/))
+- [Paint Splatter](https://www.khanacademy.org/computer-programming/paintsplatter/5602189262192640)
+- [Khan Academy profile](https://www.khanacademy.org/profile/kaid_1072138969836315566562093)
 
 ## Languages
 
