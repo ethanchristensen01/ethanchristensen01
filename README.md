@@ -43,7 +43,7 @@ My focus for the past few years has been school and work. I could upload some as
 
 (Well, I just did!)
 
-![Lunar Lander Game](https://github-readme-stats.vercel.app/api/pin/?username=ethanchristensen01&repo=lunar-lander-game)
+![Lunar Lander Game](https://github.com/ethanchristensen01/lunar-lander-game)
 
 Unfortunately, I cannot showcase work from my most recent job without permission from our customers. This has been where most of my attention for development has gone, so I don't have many other projects to share.
 
